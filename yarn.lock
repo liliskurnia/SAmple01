@@ -7688,7 +7688,7 @@
   "resolved" "https://registry.npmjs.org/functions-have-names/-/functions-have-names-1.2.3.tgz"
   "version" "1.2.3"
 
-"gatsby-cli@^2.11.1":
+"gatsby-cli@^2.11.6":
   "integrity" "sha512-3xXe4y6DazWNYE2JFyErI7BGlgQjY4rRL5OTFWHvs6ULw7fu0xgoWXxKsoAp6S2xosKSS4zRVA6O7dDHAdidiw=="
   "resolved" "https://registry.npmjs.org/gatsby-cli/-/gatsby-cli-2.19.3.tgz"
   "version" "2.19.3"
@@ -7752,7 +7752,7 @@
   dependencies:
     "@babel/runtime" "^7.8.7"
 
-"gatsby-link@^2.3.1":
+"gatsby-link@^2.3.2":
   "integrity" "sha512-AYXxndlSx5mnYv+/PBPdPBRvdv1LeSGE3WO8uYj2ReYDSbhiAlF3KKz30D62ErartXP0deySPtRKx4Dd3nCFYw=="
   "resolved" "https://registry.npmjs.org/gatsby-link/-/gatsby-link-2.11.0.tgz"
   "version" "2.11.0"
@@ -7862,7 +7862,7 @@
     "xstate" "^4.9.1"
     "yoga-layout-prebuilt" "^1.9.6"
 
-"gatsby-telemetry@^1.10.2", "gatsby-telemetry@^1.2.1":
+"gatsby-telemetry@^1.10.2", "gatsby-telemetry@^1.2.3":
   "integrity" "sha512-LwMtRIdcNuI25D+yU7RO+UcmF+3uPz0Zrefa+/rkTmxZuz54bOGSYqmzJJt1L1gRz7Jdl+DmYRqVgmiW/dsr/g=="
   "resolved" "https://registry.npmjs.org/gatsby-telemetry/-/gatsby-telemetry-1.10.2.tgz"
   "version" "1.10.2"
@@ -7882,10 +7882,10 @@
     "node-fetch" "^2.6.1"
     "uuid" "3.4.0"
 
-"gatsby@^2.20.4":
-  "integrity" "sha512-0OHQqYn0+67+PEKuBnjNYGMG9NC8CgMHzoqwZZJu1UvLT/IbVpev+hZSaWX8gStlHBPw2Un8+GIp2QmFeJKxlg=="
-  "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-2.20.4.tgz"
-  "version" "2.20.4"
+"gatsby@^2.20.16":
+  "integrity" "sha512-l5O+chfPCNR9uO390cCA+P7ZE7gAIIdZMhtsXHRR2rp5ZFIZZfNRnKV7ipMtE2cMgPCAXjnx9pOauLqOTeU9Yg=="
+  "resolved" "https://registry.npmjs.org/gatsby/-/gatsby-2.20.16.tgz"
+  "version" "2.20.16"
   dependencies:
     "@babel/code-frame" "^7.8.3"
     "@babel/core" "^7.8.7"
@@ -7948,13 +7948,13 @@
     "flat" "^4.1.0"
     "fs-exists-cached" "1.0.0"
     "fs-extra" "^8.1.0"
-    "gatsby-cli" "^2.11.1"
+    "gatsby-cli" "^2.11.6"
     "gatsby-core-utils" "^1.1.1"
     "gatsby-graphiql-explorer" "^0.3.1"
-    "gatsby-link" "^2.3.1"
+    "gatsby-link" "^2.3.2"
     "gatsby-plugin-page-creator" "^2.2.1"
     "gatsby-react-router-scroll" "^2.2.1"
-    "gatsby-telemetry" "^1.2.1"
+    "gatsby-telemetry" "^1.2.3"
     "glob" "^7.1.6"
     "got" "8.3.2"
     "graphql" "^14.6.0"
